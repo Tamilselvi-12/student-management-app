@@ -1,2 +1,4 @@
-# student-management-app
-Web app for managing student records
+
+## Student Management Web App
+Python Flask application for managing student records with authentication and CRUD features.
+
